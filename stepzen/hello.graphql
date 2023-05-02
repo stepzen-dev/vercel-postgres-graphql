@@ -1,0 +1,6 @@
+"""
+This is a hello world example query for GraphQL
+"""
+type Query {
+  hello: String
+}
